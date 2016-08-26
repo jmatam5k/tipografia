@@ -1,0 +1,63 @@
+.contenedor{
+	
+	position: relative;
+
+}
+.caja {
+	
+	float: left;
+	border: 1px solid black;
+	height: 260px;
+	width: 200px;
+	margin: 10px;
+	top:30px;
+	
+	text-align: center;
+}
+span{
+	
+	font-size: 50px;
+}
+h3{
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+}
+h4{
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+}
+p{
+	text-align: center;
+	font-family: 'Alegreya Sans', sans-serif;
+}
+.avion:hover{
+	position: relative;
+    transform: scale(1.2); 
+    transition-duration: 1s;
+    opacity: 0.5;
+}
+.ruby:hover{
+	position: relative;
+    transform: scale(1.2); 
+    transition-duration: 1s;
+    opacity: 0.5;
+}
+.heart:hover{
+	position: relative;
+    transform: scale(1.2); 
+    transition-duration: 1s;
+    opacity: 0.5;
+}
+.cup:hover{
+	position: relative;
+    transform: scale(1.2); 
+    transition-duration: 1s;
+    opacity: 0.5;
+}
+.food:hover{
+	position: relative;
+    transform: scale(1.2); 
+    transition-duration: 1s;
+    opacity: 0.5;
+}
+
