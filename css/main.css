@@ -64,4 +64,10 @@ p{
     transition-duration: 1s;
     opacity: 0.5;
 }
+caja:hover span:after{
+	position: relative;
+    transform: scale(1.2); 
+    transition-duration: 1s;
+
+}
 
