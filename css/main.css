@@ -4,15 +4,19 @@
 
 }
 .caja {
-	
+
+	position: relative;
+	display: inline-block;
 	float: left;
 	border: 1px solid black;
 	height: 260px;
 	width: 200px;
 	margin: 10px;
 	top:30px;
-	
 	text-align: center;
+	
+	
+	
 }
 span{
 	
