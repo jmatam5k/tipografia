@@ -33,35 +33,76 @@ h4{
 p{
 	text-align: center;
 	font-family: 'Alegreya Sans', sans-serif;
+	overflow: hidden;
 }
 .avion:hover{
 	position: relative;
     transform: scale(1.2); 
     transition-duration: 1s;
     opacity: 0.5;
+    overflow: hidden;
+    box-shadow: 10px 10px 40px #4531FF;
 }
 .ruby:hover{
 	position: relative;
     transform: scale(1.2); 
     transition-duration: 1s;
     opacity: 0.5;
+    overflow: hidden;
+    box-shadow: 10px 10px 40px #4531FF;
 }
 .heart:hover{
 	position: relative;
     transform: scale(1.2); 
     transition-duration: 1s;
     opacity: 0.5;
+    overflow: hidden;
+    box-shadow: 10px 10px 40px #4531FF;
 }
 .cup:hover{
 	position: relative;
     transform: scale(1.2); 
     transition-duration: 1s;
     opacity: 0.5;
+    overflow: hidden;
+    box-shadow: 10px 10px 40px #4531FF;
 }
 .food:hover{
 	position: relative;
     transform: scale(1.2); 
     transition-duration: 1s;
     opacity: 0.5;
+    overflow: hidden;
+    box-shadow: 10px 10px 40px #4531FF;
+}
+span.icon-avion:hover {
+	font-size: 70px;
+	transition-duration: 0.5s;
+	color: #a6b8da;
+
+}
+span.icon-ruby:hover {
+	font-size: 70px;
+	transition-duration: 0.5s;
+	color: #a6b8da;
+
+}
+span.icon-heart:hover {
+	font-size: 70px;
+	transition-duration: 0.5s;
+	color: #a6b8da;
+
+}
+span.icon-cup:hover {
+	font-size: 70px;
+	transition-duration: 0.5s;
+	color: #a6b8da;
+
+}
+span.icon-food:hover {
+	font-size: 70px;
+	transition-duration: 0.5s;
+	color: #a6b8da;
+
 }
 
